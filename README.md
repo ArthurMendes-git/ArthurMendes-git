@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Me chamo Arthur Mendes  
 
-<!--
-**ArthurMendes-git/ArthurMendes-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **estudante de tecnologia** apaixonado por **programação, inovação e desenvolvimento de soluções criativas**.  
+Busco constantemente evoluir, aprendendo, criando e crescendo todos os dias.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+-  Estudando e aprimorando minhas habilidades em **desenvolvimento web e software**  
+-  Atualmente aprendendo **JavaScript**, **Python** e **Node.js**  
+-  Foco em **crescimento pessoal e profissional constante**  
+-  Curioso por tudo que envolve **tecnologia e criatividade**
+
+---
+
+## 🛠️ Tecnologias que utilizo
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,vscode" />
+</div>
+
+---
+
+## 📫 Como me encontrar
+- GitHub: [ArthurMendes-git](https://github.com/ArthurMendes-git)
+- LinkedIn: [Arthur Mendes de Carvalho](https://www.linkedin.com/in/arthur-mendes-de-carvalho-110ab5389/)()
+
+---
