@@ -13,14 +13,14 @@ Busco constantemente evoluir, aprendendo, criando e crescendo todos os dias.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,vscode" />
 </div>
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 - GitHub: [ArthurMendes-git](https://github.com/ArthurMendes-git)
 - LinkedIn: [Arthur Mendes de Carvalho](https://www.linkedin.com/in/arthur-mendes-de-carvalho-110ab5389/)()
 
