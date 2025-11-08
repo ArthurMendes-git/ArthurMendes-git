@@ -22,6 +22,6 @@ Busco constantemente evoluir, aprendendo, criando e crescendo todos os dias.
 
 ## Como me encontrar
 - GitHub: [ArthurMendes-git](https://github.com/ArthurMendes-git)
-- LinkedIn: [Arthur Mendes de Carvalho](https://www.linkedin.com/in/arthur-mendes-de-carvalho-110ab5389/)()
+- LinkedIn: [Arthur Mendes de Carvalho](https://www.linkedin.com/in/arthur-mendes-de-carvalho-110ab5389/)
 
 ---
